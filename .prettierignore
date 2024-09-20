@@ -1,0 +1,10 @@
+build
+dist
+coverage
+node_modules
+.husky
+pnpm-lock.yaml
+/packages/docs/.docusaurus
+CHANGELOG.md
+/storybook-static
+/examples
